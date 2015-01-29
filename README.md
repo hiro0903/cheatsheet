@@ -21,16 +21,15 @@ Chris' Cheatsheet
 
 不過目前因為只有我一個人, 所以不知道如何實作
 
-[報名方式]()
+[報名方式與環境測試](JOINUS.md)
 
-[共同創作環境設置]()
 
 ---
 
-### 創作規範
+### 寫作參考資料
 
-為了好讀好管理, 還是需要一定的規範, 
+Gitbook架構不懂? Markdown不熟? 來看這邊:
 
-[內文檔案規範]()
+[內文寫作參考](EXAMPLE.md)
 
 [Markdown Cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
