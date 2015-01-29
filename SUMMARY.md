@@ -1,8 +1,8 @@
 # Summary
 
 * [屁話](README.md)
-   * [加入寫作](README.md#歡迎共同創作)
-   * 寫作規範
+   * [加入寫作]()
+   * [寫作規範](example.md)
 * 開發環境
 * 客戶端環境
     * [IE](02-客戶端環境/IE/ie-hack.md)
