@@ -2,8 +2,9 @@
 
 * [屁話](README.md)
 * 開發環境
+    * [印出PERL變數: LOCAL/GLOBAL](01-SERVER/print_GLOBAL_and_LOCAL.md)
 * 客戶端環境
-    * [IE](02-客戶端環境/IE/ie-hack.md)
+    * [IE](02-CLIENT/IE/ie-hack.md)
         * IE 8
         * IE 9
         * IE 10
