@@ -20,5 +20,3 @@
 * 附錄
    * [範例](Example.md)
    * [加入創作](JoinUs.md)
-* dafdasfasf
-
