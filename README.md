@@ -21,7 +21,7 @@ Chris' Cheatsheet
 
 不過目前因為只有我一個人, 所以不知道如何實作
 
-[報名方式與環境測試](JOINUS.md)
+[報名方式與環境測試](JoinUs.md)
 
 
 ---
@@ -30,6 +30,6 @@ Chris' Cheatsheet
 
 Gitbook架構不懂? Markdown不熟? 來看這邊:
 
-[內文寫作參考](EXAMPLE.md)
+[內文寫作參考](Example.md)
 
 [Markdown Cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
