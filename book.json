@@ -1,0 +1,10 @@
+{
+    "plugins": [],
+    "links": {
+        "sidebar": {
+            "Document Git": "https://github.com/GitbookIO/documentation",
+            "官方Documentation": "http://help.gitbook.io/index.html"
+        }
+    },
+    "pluginsConfig": {}
+}
