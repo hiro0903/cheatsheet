@@ -9,6 +9,7 @@
    * [ie](02-CLIENT/IE/ie-hack.md)
 * HTML
 * Javascript
+    * [ECMAScript5 - Object](04-JavaScript/ECMAScript5/object.md)
 * CSS
 * 附錄
    * [範例](Example.md)
