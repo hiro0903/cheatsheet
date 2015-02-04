@@ -1,13 +1,13 @@
-Chris' Cheatsheet
+Front End's Cheatsheet
 =======
 
 
 > I have a dream ---
 > 
-> to become **Chris' Handbook**
+> to become **Front End's Handbook**
 > 
 > 
-> -_Chris' Cheetsheet_
+> -_Front End's Cheetsheet_
 
 化工界有一本 _Perry's Handbook_, 內容充滿各式各樣的經驗方程式.
 
