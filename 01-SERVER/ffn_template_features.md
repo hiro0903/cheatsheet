@@ -46,3 +46,14 @@
 
 所以text_js 的反跳脫只對js有效(html無效)
 
+
+---
+### initsub
+用來呼叫GlobalLib中各式各樣的sub, 有些GLOBAL只有在某些template中出現, 而且backend一直抓不到哪時後載入這個GLOBAL就很可能是這邊產生, 如:
+
+* **template:** footer_v3.0
+* **call sub:** [initsub getLangLinkHash]
+* **產生GLOBAL:** 
+    * [var GLOBAL->UPDATE_LANG->english]
+    * [var GLOBAL->UPDATE_LANG->spanish]
+    * ... 
