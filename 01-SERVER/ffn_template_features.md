@@ -1,3 +1,16 @@
+### tempalte 查詢方式
+
+* **showtemplates**.dev21.adultfriendfinder.com
+* dev21.adultfriendfinder.com**.stmpl=1**
+* admin tool (footer 下方奇怪的區塊)
+
+---
+
+### 
+
+---
+
+
 ### gsub & psub
 
 ```javascript
