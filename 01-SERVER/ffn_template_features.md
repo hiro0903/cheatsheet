@@ -2,7 +2,7 @@
 
 * **showtemplates**.dev21.adultfriendfinder.com
 * dev21.adultfriendfinder.com**.stmpl=1**
-* admin log (footer 下方奇怪的區塊)
+* pref table (footer 下方奇怪的區塊)
 
 ---
 
