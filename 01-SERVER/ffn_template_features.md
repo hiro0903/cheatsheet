@@ -6,7 +6,10 @@
 
 ---
 
-### 
+### 關掉 admin 的方法
+
+ * debug_cookie=perf_off:0
+ * &noadmin=1
 
 ---
 
