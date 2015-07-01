@@ -41,3 +41,9 @@ scripts中可以加入 `"start" : "gulp"`, 則執行npm start就會run gulp
   }
 ```
 
+### reference
+[官網 plug-in](http://gulpjs.com/plugins/)
+
+(完整圖文說明) http://www.oxxostudio.tw/articles/201503/gulp-install-webserver.html
+
+https://987.tw/2014/07/09/gulpru-men-zhi-nan/
