@@ -5,7 +5,7 @@
 
     - **[mixin\]** getDefaultProps - 開始有預設的props (還沒得到來自parent的props)
 
-    - getDefaultProps
+    - getDefaultProps - 這邊return 的default props 是所有instance共用的(不確定function是否重複執行)
     
     - **[mixin\]** contextTypes - 如果parent有符合的context, 應該從這邊開始會得到
 
@@ -34,6 +34,10 @@
     ---
     
     - **元件running階段** (正常來說, 只有this.state, this.props改變才會觸發更新)
+    
+    - componentWillReceiveProps (nextProps) - 如果有state直接與prop相關, 在此setState
+    
+    - shouldComponentUpdate (nextProps, nextState) - 如果是forceUpdate不會經過這階段
     
     - componentWillUpdate (nextProps, nextState)
 
