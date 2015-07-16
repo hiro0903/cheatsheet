@@ -12,6 +12,7 @@
 * HTML
 * Javascript
     * [ECMAScript5 - Object](04-JavaScript/ECMAScript5/object.md)
+    * [Web API - Media](04-JavaScript/WebAPI/media.md)
 * CSS
 * [前端工具](05-Tools/README.md)
     * Gulp
