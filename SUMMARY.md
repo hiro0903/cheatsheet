@@ -7,6 +7,7 @@
     * [印出PERL變數: $ENV](01-SERVER/print_ENV.md)
     * [Sublime編輯Server上檔案](01-SERVER/edit_server_file_via_sublime.md)
     * [COLOR - 站台色票](01-SERVER/color.md)
+    * [不使用root權限 npm install -g](01-SERVER/npm_install_global_as_user.md)
 * [客戶端環境](02-CLIENT/README.md)
     * [ie](02-CLIENT/IE/ie-hack.md)
 * HTML
