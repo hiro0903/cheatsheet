@@ -13,23 +13,7 @@ Front End's Cheatsheet
 
 前端的世界, 奇妙的問題百百種, 讓我們一起分享各自的經驗吧!
 
---- 
-
-### 歡迎共同創作
-
-理論上可以使用Github/Gitbook共同創作,
-
-不過目前因為只有我一個人, 所以不知道如何實作
-
-[報名方式與環境測試](JoinUs.md)
 
 
----
 
-### 寫作參考資料
 
-Gitbook架構不懂? Markdown不熟? 來看這邊:
-
-[內文寫作參考](Example.md)
-
-[Markdown Cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
