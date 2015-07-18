@@ -1,15 +1,17 @@
-https://codility.com/programmers/
-=========
+# Codity 練習結果
 
-| Lessons                         | Tasks                     | Results                                           |
-|:--------------------------------|:--------------------------|:--------------------------------------------------|
-| 1 - Time Complexity             | FrogJmp                   | https://codility.com/demo/results/demoRTMBJH-97X/ |
-|                                 | TapeEquilibrium           | https://codility.com/demo/results/demoUMCNY3-784/ |
-|                                 | PermMissingElem           | https://codility.com/demo/results/demo3VMTC3-JRK/ |
-| 2 - Counting Elements           | PermCheck                 | https://codility.com/demo/results/demoGEJTRM-A5W/ |
-|                                 | FrogRiverOne              | https://codility.com/demo/results/demo5NVDHF-MJH/ |
-|                                 | MaxCounters               | https://codility.com/demo/results/demoBJN2K3-FNM/ |
-|                                 | MissingInteger            | https://codility.com/demo/results/demoQARDN8-X7R/ |
+https://codility.com/programmers/
+
+
+| Lessons  | Tasks  | Results     |
+|:---------|:-------|:------------|
+| 1-Time Complexity | FrogJmp  | https://codility.com/demo/results/demoRTMBJH-97X/ |
+|          | TapeEquilibrium     | https://codility.com/demo/results/demoUMCNY3-784/ |
+|          | PermMissingElem     | https://codility.com/demo/results/demo3VMTC3-JRK/ |
+| 2-Counting Elements | PermCheck | https://codility.com/demo/results/demoGEJTRM-A5W/ |
+|          | FrogRiverOne        | https://codility.com/demo/results/demo5NVDHF-MJH/ |
+|          | MaxCounters         | https://codility.com/demo/results/demoBJN2K3-FNM/ |
+|          | MissingInteger      | https://codility.com/demo/results/demoQARDN8-X7R/ |
 | 3 - Prefix Sums                 | PassingCars               |                                                   |
 |                                 | GenomicRangeQuery         |                                                   |
 |                                 | MinAvgTwoSlice            |                                                   |
