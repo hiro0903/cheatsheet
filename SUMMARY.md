@@ -24,6 +24,8 @@
         * [Gulp vs. Grunt](05-Tools/Gulp/gulp-vs-grunt.md)
     * React
         * [LifeCycle](05-Tools/React/life-cycle.md)
+* Code
+    * [Codity練習紀錄](07-Code/codity.md)
 * 附錄
     * [範例](Example.md)
     * [加入創作](JoinUs.md)
