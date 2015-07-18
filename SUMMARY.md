@@ -16,9 +16,10 @@
     * [ECMAScript5 - Object](04-JavaScript/ECMAScript5/object.md)
     * [Web API - Media](04-JavaScript/WebAPI/media.md)
 * CSS
-    * Reset(05-CSS/reset.md)
+    * [Reset](05-CSS/reset.md)
     * 3D Viewport
     * Animation
+    * [Font Icon](05-CSS/font-icon.md)
 * [前端工具](06-Tools/README.md)
     * Webpack
     * Gulp
