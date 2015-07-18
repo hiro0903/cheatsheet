@@ -10,6 +10,7 @@
     * [不使用root權限 npm install -g](01-SERVER/npm_install_global_as_user.md)
 * [客戶端環境](02-CLIENT/README.md)
     * [ie](02-CLIENT/IE/ie-hack.md)
+    * [顯示重繪區域](02-CLIENT/show-render-area.md)
 * HTML
 * Javascript
     * [ECMAScript5 - Object](04-JavaScript/ECMAScript5/object.md)
