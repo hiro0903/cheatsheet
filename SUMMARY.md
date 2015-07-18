@@ -27,6 +27,7 @@
         * [LifeCycle](05-Tools/React/life-cycle.md)
 * Code
     * [Codity練習紀錄](07-Code/codility.md)
+    * [Backbone練習](07-Code/backbone-notes.md)
 * 附錄
     * [範例](Example.md)
     * [加入創作](JoinUs.md)
