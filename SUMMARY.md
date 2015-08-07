@@ -8,6 +8,7 @@
     * [Sublime編輯Server上檔案](01-SERVER/edit_server_file_via_sublime.md)
     * [COLOR - 站台色票](01-SERVER/color.md)
     * [不使用root權限 npm install -g](01-SERVER/npm_install_global_as_user.md)
+    * [把perl變數修改後帶入gsub](01-SERVER/modified_var_into_gsub.md)
 * [客戶端環境](02-CLIENT/README.md)
     * [ie](02-CLIENT/IE/ie-hack.md)
     * [顯示重繪區域](02-CLIENT/show-render-area.md)
