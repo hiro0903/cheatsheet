@@ -1,4 +1,4 @@
-Front End's Cheatsheet
+Chris' Cheatsheet
 =======
 
 
@@ -7,11 +7,11 @@ Front End's Cheatsheet
 > to become **Front End's Handbook**
 > 
 > 
-> -_Front End's Cheetsheet_
+> -_Chris' Cheetsheet_
 
-化工界有一本 _Perry's Handbook_, 內容充滿各式各樣的經驗方程式.
+化工界有一本 _Perry's Handbook_, 裡面充滿各種化學工程師所需的圖表與方程式.
 
-前端的世界, 奇妙的問題百百種, 讓我們一起分享各自的經驗吧!
+前端的世界博大精深, 我也要把我碰過的奇奇怪怪問題都整理在一起, 送人自用兩相宜!
 
 
 
