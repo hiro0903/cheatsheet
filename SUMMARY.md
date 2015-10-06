@@ -22,6 +22,7 @@
     * Animation
     * [Font Icon](05-CSS/font-icon.md)
 * [前端工具](06-Tools/README.md)
+    * [ESLint](06-Tools/ESLint/README.md)
     * Webpack
     * Gulp
         * [Gulp vs. Grunt](06-Tools/Gulp/gulp-vs-grunt.md)
