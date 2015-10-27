@@ -8,6 +8,7 @@
 * Javascript
     * [ECMAScript5 - Object](04-JavaScript/ECMAScript5/object.md)
     * [Web API - Media](04-JavaScript/WebAPI/media.md)
+    * [AngularJS 筆記](04-JavaScript/AngularJS.md)
 * CSS
     * [Reset](05-CSS/reset.md)
     * 3D Viewport
